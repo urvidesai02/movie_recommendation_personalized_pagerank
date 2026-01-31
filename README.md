@@ -169,4 +169,4 @@ Top 10 Recommendations for User 123:
 
 - Inspired by Google's PageRank algorithm
 - Built with [Streamlit](https://streamlit.io/)
-- Sparse matrix operations powered by [SciPy](https://scipy.org/)# movie_recommendation_personalized_pagerank
+- Sparse matrix operations powered by [SciPy](https://scipy.org/)
